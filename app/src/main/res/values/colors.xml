@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    //colors heroes
+
+    //cpaitan
+    <color name="capitan">#8cbed6</color>
+    <color name="capitant">#519EC3</color>
+    //thor
+    <color name="thor">#00BAE1</color>
+    <color name="thort">#519EC3</color>
+    //ironman
+    <color name="ironman">#EDC782</color>
+    <color name="ironmant">#ECB552</color>
+
+    //doctor
+    <color name="doctor">#F59896</color>
+    <color name="doctot">#D85D5B</color>
+    //natawa
+    <color name="nat">#858585</color>
+    <color name="natt">#3A3737</color>
+    //hawkeye
+    <color name="hawkeye">#B586C1</color>
+    <color name="hawkeyet">#864797</color>
+    //wanda
+    <color name="wanda">#F59896</color>
+    <color name="wandat">#D85D5B</color>
+    //black
+    <color name="black1">#858585</color>
+    <color name="blackt">#3A3737</color>
+    //hulk
+    <color name="hulk">#82B153</color>
+    <color name="hulkt">#68C809</color>
+    //baki
+    <color name="baki">#74B6FB</color>
+    <color name="bakit">#337BC6</color>
+    //vision
+    <color name="vision">#B3B130</color>
+    <color name="visont">#D5D215</color>
+    //spiderman
+    <color name="spiderman">#D66964</color>
+    <color name="spidermant">#EA4E47</color>
+    //loki
+    <color name="loki">#82B153</color>
+    <color name="lokit">#68C809</color>
+    //thanos
+    <color name="thanos">#C269DA</color>
+    <color name="thanost">#811B9C</color>
+    //ultron
+    <color name="ultron">#E66360</color>
+    <color name="ultront">#E53935</color>
+    //carl
+    <color name="carl">#FDD835</color>FDD835
+    <color name="carlt">#C0CA33</color>
+
+</resources>
